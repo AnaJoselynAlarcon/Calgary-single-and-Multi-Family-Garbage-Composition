@@ -5,6 +5,9 @@
 
 - 🔭 I’m currently working on [Data extraction in Python and visualization in Power BI](https://github.com/AnaJoselynAlarcon/Calgary-single-and-Multi-Family-Garbage-Composition/)
 
+![My Image](dashboard.png)
+
+
 
 
 - 📝 I regularly write posts on [https://www.linkedin.com/in/anajoselynalarcon/](https://www.linkedin.com/in/anajoselynalarcon/)
