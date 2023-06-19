@@ -1,4 +1,3 @@
-# Calgary-single-and-Multi-Family-Garbage-Composition
 
 <h1 align="center">Hi 👋, I'm Ana Joselyn Alarcon</h1>
 <h3 align="center">Enthusiastic Front-End Developer</h3>
