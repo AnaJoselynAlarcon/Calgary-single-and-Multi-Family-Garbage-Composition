@@ -16,6 +16,7 @@ This repository provides an example of how to extract data from an Open API usin
 - [Visualization in Power BI](#visualization-in-power-bi)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [Overview](#overview)
 
 ## Introduction
 
@@ -73,7 +74,7 @@ To use this repository, follow these steps:
 
 Contributions to this repository are always welcome. If you have any improvements, suggestions, or bug fixes, please feel free to submit a pull request or open an issue.
 
-
+## Overview
 
 ![My Image](dashboard.png)
 
